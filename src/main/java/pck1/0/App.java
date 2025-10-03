@@ -10,7 +10,8 @@ public class App {
     /**
    The closing semi-colon here is added
     */
-};
+}
+
 
 
 
